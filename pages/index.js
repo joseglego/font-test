@@ -13,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
   body,
   html {
     margin: 0;
-    font-family:"ir ";
+    font-family:"ir";
   }
 
   body {
